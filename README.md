@@ -120,7 +120,7 @@ before submitting pull requests.
 ## Links
 
 **Website**  
-https://lumina.engine
+https://www.luminaengine.ai/
 
 **Twitter / X**  
 https://twitter.com/LuminaEngine
