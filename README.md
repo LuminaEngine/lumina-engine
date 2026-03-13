@@ -126,7 +126,7 @@ https://lumina.engine
 https://twitter.com/LuminaEngine
 
 **Telegram**  
-https://t.me/luminaengine
+https://t.me/+KfL5fiNHc_QwMTU0
 
 ---
 
