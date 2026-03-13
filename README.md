@@ -1,3 +1,5 @@
+![Lumina Engine](assets/lumina-logo.png)
+
 # Lumina Engine
 
 **Private settlement infrastructure for digital assets.**
