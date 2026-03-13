@@ -90,7 +90,7 @@ Lumina Engine is currently in **public testnet beta**.
 
 If you would like to participate in testing, see:
 
-👉 **[Beta Testing Guide](./BETATESTING.md)**
+👉 **[Beta Testing Guide](./USER_GUIDE.md)**
 
 The beta includes:
 
